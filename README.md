@@ -15,9 +15,22 @@
 
 ---
 
-## 📌 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mohit89s&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit89s&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mohit89s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit89s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit89s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 ⭐ *Always open to collaborations and new opportunities!*
