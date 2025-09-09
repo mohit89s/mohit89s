@@ -16,7 +16,7 @@
 ---
 
 ## 📌 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit89s&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mohit89s&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit89s&layout=compact&theme=tokyonight)
 
 ---
